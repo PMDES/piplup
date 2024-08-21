@@ -1,0 +1,18 @@
+{
+    "id": 1060,
+    "name": "Sherane (placeholder)",
+    "author": "MeltRay77",
+    "creators": ["MeltRay77"],
+    "verifier": "MeltRay77",
+    "verification": "https://www.youtube.com/watch?v=2ltRBp28uOI",
+    "percentToQualify": 5,
+    "password": "Anyone can copy",
+    "records": [
+        {
+            "user": "MeltRay77",
+            "link": "https://www.youtube.com/watch?v=2ltRBp28uOI",
+            "percent": 10,
+            "hz": 240
+        }
+    ]
+}
