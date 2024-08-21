@@ -1,16 +1,16 @@
 {
-    "id": 1060,
-    "name": "Sherane (placeholder)",
-    "author": "MeltRay77",
-    "creators": ["MeltRay77"],
-    "verifier": "MeltRay77",
-    "verification": "https://www.youtube.com/watch?v=2ltRBp28uOI",
+    "id": 1062,
+    "name": "EBL",
+    "author": "Xan",
+    "creators": ["Xan"],
+    "verifier": "Xan",
+    "verification": "TBD",
     "percentToQualify": 5,
     "password": "Anyone can copy",
     "records": [
         {
             "user": "MeltRay77",
-            "link": "https://www.youtube.com/watch?v=2ltRBp28uOI",
+            "link": "TBD",
             "percent": 100,
             "hz": 240
         }
