@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 1060,
+    "name": "test.js",
+    "author": "MeltRay77",
+    "creators": ["Skibidi", "Toiletries", "Test"],
+    "verifier": "Theonewhoknocks",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "percentToQualify": 1,
+    "password": "Anyone can copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "MeltRay77",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "percent": 101,
+            "hz": 199
         }
     ]
 }
