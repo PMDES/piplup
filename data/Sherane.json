@@ -9,5 +9,10 @@
     "password": "Anyone can copy",
     "records": [
         {
+            "user": "Skay",
+            "link": "TBD",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
