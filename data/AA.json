@@ -9,16 +9,21 @@
     "password": "Free to copy",
     "records": [
         {
-            "user": "Abte",
+            "user": "Xan",
             "link": "TBD",
             "percent": 100,
             "hz": TBD
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Abte",
+            "link": "TBD",
             "percent": 100,
-            "hz": 120
-        }
+            "hz": 240
+        },
+        {
+            "user": "rori",
+            "link": "TBD",
+            "percent": 100,
+            "hz": TBD
     ]
 }
